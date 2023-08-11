@@ -61,3 +61,4 @@
 
 ### ERD Diagram
 [**ERD Cloud**](https://www.erdcloud.com/d/QBcuKs8MqxfjY5bv3)
+![Plip-ERD](https://github.com/jeein2222/DS-coder/assets/96341808/708ca860-adc2-4e15-b9e4-44b4600eb019)
