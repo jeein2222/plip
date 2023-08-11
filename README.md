@@ -1,4 +1,4 @@
-# PliP
+# PliP(여행 일정 관리, 기록 서비스)
 ![main page](https://github.com/lsh4711/plip/assets/120231876/4968715d-1418-4e9c-ac72-4b76c1220cf3)
 
 - **Team name**: 코벤져스
